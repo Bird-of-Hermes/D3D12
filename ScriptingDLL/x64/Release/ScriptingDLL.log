@@ -1,0 +1,8 @@
+﻿  dllmain.cpp
+  UserScript.cpp
+     Criando biblioteca ..\DX12\x64\Release\ScriptingDLL.lib e objeto ..\DX12\x64\Release\ScriptingDLL.exp
+  Gerando código
+  Previous IPDB not found, fall back to full compilation.
+  All 771 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finalizada a geração de código
+  ScriptingDLL.vcxproj -> C:\Users\Euler\Desktop\DirectX12-MT-IT\DX12\x64\Release\ScriptingDLL.dll
