@@ -1,0 +1,2 @@
+.megaignore
+\DX12\x64
